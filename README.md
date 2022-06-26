@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Here are some things I like playing sround with
+Here are some things I like playing around with:
 
 ## 🛠️ Technologies and Tools
 ### DevOps & Cloud Technologies
